@@ -1,0 +1,11 @@
+[package]
+name = "time_series_analysis_simple"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+statrs = "0.16"
+
+[[bin]]
+name = "time_series_analysis_simple"
+path = "main.rs"

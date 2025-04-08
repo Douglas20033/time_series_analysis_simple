@@ -1,0 +1,1 @@
+C:\Users\DOUGLAS\OneDrive\Área\ de\ Trabalho\Portifólio\ Estrutura\ de\ dados\time_series_analysis_simple\target\debug\time_series_analysis_simple.exe: C:\Users\DOUGLAS\OneDrive\Área\ de\ Trabalho\Portifólio\ Estrutura\ de\ dados\time_series_analysis_simple\main.rs
